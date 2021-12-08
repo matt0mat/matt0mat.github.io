@@ -3,12 +3,13 @@ body {
 }
 
 h1{
-	font-family: "San Francisco";
-	text-align: center;
+	font-family: "Verdana", sans-serif;
 	color: rgb(225, 250, 250);
 	padding: 20px;
 }
 
 p1{
-	text-align: center;
+	margin: auto;
+	border: 3px solid black;
+	padding: 10px;
 }
