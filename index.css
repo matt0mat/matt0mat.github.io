@@ -1,3 +1,9 @@
 body {
 	background-color: rgb(60, 90, 130);
 }
+
+h1{
+	font-family: "San Francisco";
+	text-align: center;
+	padding: 20px;
+}
