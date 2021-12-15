@@ -1,0 +1,17 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+    <h1>Navigation</h1>
+    <a href="#">Our Work</a>
+    <a href="#">Studio Openings</a>
+    <a href="#">The Grand Theatre Carnival</a>
+    <a href="#">Teams</a>
+    <a href="#">Inquiries</a>
+  </body>
+</html>
